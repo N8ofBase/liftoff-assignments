@@ -21,7 +21,8 @@ Project Tracker: Link to your Trello board here.
 Enable GitHub Issues: If you haven’t already enabled GitHub Issues do so before submitting this assignment. If you haven’t enabled GitHub Issues yet your mentor will not be able to give you feedback on your project!
 
 ### Overview
-Include overview here
+Teah T.V. is an organizational app that stores the information and location of a users movie/tv collection in a searchable, editable, and smooth database. It is named after my mother Teah who has moved into the cozy quarters of a retirement home. She is a movie fanatic and has collections of DVDs and Blue Rays that can no longer be displayed so  they need to be consolidated into disc holders and binders(Even though she owns digital copies of most of them anyway...). This will allow the user, my mom, to quickly and conveniently locate the desired movie's information.
+
 ### Features
 Include Features here
 ### Technologies
