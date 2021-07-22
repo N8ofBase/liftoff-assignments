@@ -21,13 +21,17 @@ Project Tracker: Link to your Trello board here.
 Enable GitHub Issues: If you haven’t already enabled GitHub Issues do so before submitting this assignment. If you haven’t enabled GitHub Issues yet your mentor will not be able to give you feedback on your project!
 
 ### Overview
-Teah T.V. is an organizational app that stores the information and location of a users movie/tv collection in a searchable, editable, and smooth database. It is named after my mother Teah who has moved into the cozy quarters of a retirement home. She is a movie fanatic and has collections of DVDs and Blue Rays that can no longer be displayed so  they need to be consolidated into disc holders and binders(Even though she owns digital copies of most of them anyway...). This will allow the user, my mom, to quickly and conveniently locate the desired movie's information.
+Teah T.V. is an organizational app that stores the information and location of a users movie/tv collection in a searchable, editable, and smooth database. It is named after my mother Teah who has moved into the cozy quarters of a retirement home. She is a movie fanatic and has collections of DVDs and Blue Rays that can no longer be displayed so  they need to be consolidated into disc holders and binders(Even though she owns digital copies of most of them anyway...). This will allow the user, my mom, to quickly and conveniently locate the desired movie's information. This could be formatted to work with collections and data catalogs of any kind.
 
 ### Features
-Include Features here
+Admin login: Admin needs to login to be able to add and edit the database.
+Search: Users will be able to search through the catalog by movie title, director, year released, category, disc type, and location.
+
 ### Technologies
-Include Technologies here
+Java, Spring Boot, MySQL, Hibernate, Thymeleaf, Javascript
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Javascript for admin to interact and edit the catalog directly.
+
 ### Project Tracker
 Link to your Trello board here
