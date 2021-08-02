@@ -34,4 +34,4 @@ Java, Spring Boot, MySQL, Hibernate, Thymeleaf, Javascript
 Javascript for admin to interact and edit the catalog directly.
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GENVrZ94/teah-tv
