@@ -7,7 +7,10 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
+![landing page rough draft](https://github.com/N8ofBase/Stay-Fresh-Fridge/blob/main/wireframes/landing.jpg)
+![shopping list rough draft](https://github.com/N8ofBase/Stay-Fresh-Fridge/blob/main/wireframes/shopping.jpg)
+![fridge page rough draft](https://github.com/N8ofBase/Stay-Fresh-Fridge/blob/main/wireframes/fridge.jpg)
+![recipe page rough draft](https://github.com/N8ofBase/Stay-Fresh-Fridge/blob/main/wireframes/recipe.jpg)
 
 
 ### Project Tracker
@@ -16,4 +19,4 @@ https://trello.com/b/zcqwrCwL/zac-o-group-b
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/N8ofBase/Stay-Fresh-Fridge
